@@ -14,4 +14,4 @@ name. start_with?("A")
 winner = name
 end
 end
-wineer
+winner
